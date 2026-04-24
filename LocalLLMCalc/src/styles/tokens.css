@@ -1,0 +1,15 @@
+:root {
+  --bg: #0a0a0a;
+  --panel: #141414;
+  --panel-2: #1c1c1c;
+  --ink: #f5f1e8;
+  --ink-dim: #8a857a;
+  --ink-faint: #4a463f;
+  --accent: #d4ff3a;
+  --accent-2: #ff6b35;
+  --warn: #ff4d4d;
+  --ok: #3aff9e;
+  --rule: #242220;
+  --mono: 'JetBrains Mono', ui-monospace, monospace;
+  --serif: 'Fraunces', Georgia, serif;
+}

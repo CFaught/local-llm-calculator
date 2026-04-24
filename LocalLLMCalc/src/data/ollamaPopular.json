@@ -1,0 +1,31 @@
+{
+  "lastUpdated": "2026-04-24",
+  "sourceNote": "Curated from ollama.com/library popular models. Refresh quarterly via scripts/refresh-ollama.js and open a PR.",
+  "models": [
+    { "ollamaName": "llama3.3:70b",        "hfId": "meta-llama/Llama-3.3-70B-Instruct" },
+    { "ollamaName": "llama3.2:3b",         "hfId": "meta-llama/Llama-3.2-3B-Instruct" },
+    { "ollamaName": "llama3.2:1b",         "hfId": "meta-llama/Llama-3.2-1B-Instruct" },
+    { "ollamaName": "llama3.1:8b",         "hfId": "meta-llama/Llama-3.1-8B-Instruct" },
+    { "ollamaName": "qwen2.5:7b",          "hfId": "Qwen/Qwen2.5-7B-Instruct" },
+    { "ollamaName": "qwen2.5:14b",         "hfId": "Qwen/Qwen2.5-14B-Instruct" },
+    { "ollamaName": "qwen2.5:32b",         "hfId": "Qwen/Qwen2.5-32B-Instruct" },
+    { "ollamaName": "qwen2.5:72b",         "hfId": "Qwen/Qwen2.5-72B-Instruct" },
+    { "ollamaName": "qwen2.5-coder:7b",    "hfId": "Qwen/Qwen2.5-Coder-7B-Instruct" },
+    { "ollamaName": "qwen2.5-coder:32b",   "hfId": "Qwen/Qwen2.5-Coder-32B-Instruct" },
+    { "ollamaName": "qwen3:8b",            "hfId": "Qwen/Qwen3-8B" },
+    { "ollamaName": "qwen3:32b",           "hfId": "Qwen/Qwen3-32B" },
+    { "ollamaName": "gemma3:4b",           "hfId": "google/gemma-3-4b-it" },
+    { "ollamaName": "gemma3:12b",          "hfId": "google/gemma-3-12b-it" },
+    { "ollamaName": "gemma3:27b",          "hfId": "google/gemma-3-27b-it" },
+    { "ollamaName": "gemma2:9b",           "hfId": "google/gemma-2-9b-it" },
+    { "ollamaName": "gemma2:27b",          "hfId": "google/gemma-2-27b-it" },
+    { "ollamaName": "phi4:14b",            "hfId": "microsoft/phi-4" },
+    { "ollamaName": "phi3.5:3.8b",         "hfId": "microsoft/Phi-3.5-mini-instruct" },
+    { "ollamaName": "mistral:7b",          "hfId": "mistralai/Mistral-7B-Instruct-v0.3" },
+    { "ollamaName": "mistral-nemo:12b",    "hfId": "mistralai/Mistral-Nemo-Instruct-2407" },
+    { "ollamaName": "mixtral:8x7b",        "hfId": "mistralai/Mixtral-8x7B-Instruct-v0.1" },
+    { "ollamaName": "deepseek-r1:70b",     "hfId": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B" },
+    { "ollamaName": "deepseek-r1:32b",     "hfId": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B" },
+    { "ollamaName": "deepseek-r1:7b",      "hfId": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B" }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "Machine-readable GPU spec snapshot. Refresh via `npm run refresh-hardware` (scripts/fetch-techpowerup.js). Vendor files currently inline their curated data — this file exists as the scrape target for future automated refreshes.",
+  "lastUpdated": null,
+  "source": "techpowerup.com/gpu-specs",
+  "gpus": []
+}
