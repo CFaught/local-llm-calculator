@@ -4,7 +4,7 @@ import { computed, ref, watch } from 'vue';
 
 const THEME_KEY = 'localllmcalc-theme';
 const savedTheme = localStorage.getItem(THEME_KEY);
-const theme = ref(savedTheme === 'light' || savedTheme === 'dark' ? savedTheme : 'dark');
+const theme = ref(savedTheme === 'light' || savedTheme === 'dark' ? savedTheme : 'light');
 const isLight = computed(() => theme.value === 'light');
 
 watch(theme, value => {
